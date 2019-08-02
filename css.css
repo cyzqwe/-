@@ -1,0 +1,506 @@
+.head{
+    margin: 0 auto;
+    width: 1200px;
+    height: 100px;
+    /* background: red; */
+    background: url("img/logo.png")no-repeat left;
+    position: relative;
+}
+.head-right{
+    position: absolute;
+    top: 0;
+    right:0;
+    height: 100px;
+   
+}
+.head-right li{   
+    float: left;
+   line-height: 100px;
+}
+.head-right a {
+    color: #767676;
+    display: block;
+    width: 115px;
+}
+.banner{
+    width: 100%;
+    height: 700px;
+    background-size: cover ;
+    background: url("img/banner.png")no-repeat center ;
+}
+.main{
+    width: 1200px;
+    height: 55px;
+    margin: 115px auto;
+    position: relative;
+}
+.hint{
+    width: 120px;
+    color:#767676;
+}
+.hint .font{
+    font-size: 28px;
+}
+.hint-1{
+    font-size: 10px;
+}
+.hint-2{
+    width: 58px;
+    border-bottom: 1px solid #767676;
+}
+
+.blank{
+    width: 300px;
+    position: absolute;
+    right: 0;
+   bottom: 0;
+   border-bottom: 1px solid #767676;
+}
+/* 切换栏开始 */
+.switch{
+  width: 1200px;
+  height: 30px;
+  margin: 0 auto;
+  
+}
+.switch-1{
+    width: 300px;
+    margin: 0 auto;
+}
+.switch a {
+    color: #767676;
+    float: left;
+    text-align: center;
+    width: 70px;
+    height: 25px;
+    border-right: 2px,black solid;
+}
+/* 切换栏结束 */
+/* 插图开始 */
+.map{
+    margin: 54px auto;
+   
+    width: 1200px;
+    height: 270px;
+   position: relative;
+}
+.map-1{
+    width: 360px;
+    height: 270px;
+    background: url("img/矩形\ 8\ 拷贝\ 3.png")no-repeat;
+    
+}
+.map-2{
+    width: 360px;
+    height: 270px;
+  
+    overflow: hidden;
+    border-radius: 10px;
+    position: relative;
+}
+.map p{
+    text-align: center;
+  
+}
+.map-2 .p-1{
+    margin-top: 59px;
+    font-size: 14px;
+}
+.map-2 .bs{
+    color: #ffffff;
+}
+.map-3{
+    margin-top: 20px;
+    font-size: 12px;
+    color: #ffffff;
+}
+.ico{
+    width: 38px;
+    height: 38px;
+background: url("img/121.png")no-repeat;
+position: absolute;
+bottom: 60px;
+right: 50px;
+}
+.map-er{
+    width: 360px;
+    height: 270px;
+    position: absolute;
+    top: 0;
+   left: 420px;
+}
+.map-er .yue{
+    font-size: 14px;
+  color: #767676;
+  float: left;
+  margin-left: 50px;
+}
+.map-er .bia{
+    position: absolute;
+    right: 50px;
+      top: 195px;
+    width: 38px;
+    height: 38px;
+    
+}
+.map-right{
+    width: 360px;
+    height: 270px;
+    position: absolute;
+    top: 0;
+    right:0;
+}
+.right-bottom{
+    font-size: 14px;
+    color: #767676;
+    width: 98px;
+    margin-left: 50px;
+}
+.bie{
+    position: absolute;
+    right: 50px;
+      top: 195px;
+    width: 38px;
+    height: 38px;
+}
+.mai{
+    width: 1200px;
+    height: 55px;
+    margin:0 auto;
+    position: relative;
+}
+.xian{
+    width: 300px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    border-bottom: 1px solid black;
+}
+
+.select{
+    margin: 54px  400px auto;
+    width: 1200px;
+    height: 115px; 
+    position: relative;
+}
+.sel{
+    width: 1200px;
+    height: 117px;
+    position: absolute;
+
+}
+
+.sel li{
+    font-size: 12px;
+    text-align: center;
+    width: 130px;
+    height: 100px;
+    float: left;
+  margin-right: 106px;
+   
+}
+.sel img:hover{
+background-color: #94adda;
+}
+.sel .bed{
+    width: 124px;
+    height: 66px;
+    background-color: rgba(148, 173, 218, .5)
+}
+.sel p {
+    margin-bottom: 10px;
+}
+
+.boo{
+    margin: 0 auto;
+    width: 1200px;
+    height: 320px;
+    position: relative;
+}
+.boo-1{
+    width: 380px;
+    height: 320px;
+    background: url("img/chuang1.png")no-repeat;
+}
+.boo-11{
+    float: left;
+    width: 380px;
+    height: 320px;
+    background-color: rgba(102, 102, 102, 0.5) 
+}
+.boo-2{
+    position: absolute;
+    top: 0;
+    left: 465px;
+    
+}
+.boo p {
+    text-align: center;
+    color: #767676;
+    font-size: 14px;
+}
+    
+
+   .boo-3{
+       position: absolute;
+       right: 0;
+       top: 0;
+   } 
+
+.zxc{
+         margin: 0 auto;
+        
+}
+.boos{
+    margin: 50px auto;
+    width: 1200px;
+    height: 320px;
+    position: relative;
+}
+.boos p{
+    text-align: center;
+    color: #767676;
+    font-size: 14px;
+}
+ .bos-3{
+     position: relative;
+ }
+ .bos-5{
+     position: absolute;
+     top: 0;
+      left: 465px;
+ }
+ .bos-6{
+     position: absolute;
+    
+     right: 0;
+     top: 0;
+ }
+ .sole{
+     width: 1200px;
+     height: 60px;
+     margin: 0 auto;
+
+ }
+ .core{
+     width: 100%;
+     height: 700px;
+     overflow: hidden;
+     background: url("img/图层\ 13.png");
+     position: relative;
+    
+ } 
+ .core-1{
+    width: 155px; 
+    height: 30px;
+    position: absolute;
+    top: 136px;
+    left: 0px;
+    color: #ffffff;
+ }
+ .core-2{
+     width: 354px;
+     height: 40px;
+     color: #ffffff;
+     margin: 214px;
+     margin-left: 0px;
+ }
+ .core-3{
+    float: right;
+     right: 0;
+     bottom: 150;
+     width: 1000px;
+     height: 160px;
+     position: relative;
+    
+ }
+.core-3{
+    width: 1009px;
+    height: 160px;
+   
+}
+.core-5{
+    width: 250px;
+    height: 160px;
+float: left;
+}
+.core-4{
+   float: left;
+    width: 250px;
+    height: 160px;
+    
+}
+.core-5:hover{
+    background-color: #668aca;
+}
+.core-4:hover{
+    background-color: #668aca;
+}
+.core-51{
+    width: 100px;
+    height: 55px;
+  
+    margin: 50px auto;
+    text-align: center;
+}
+.fan{
+height: 35px;
+border-bottom:1px solid #ffffff;
+
+
+}
+.fan-1{
+width: 126px;
+}
+.core-51 a {
+    color: #ffffff;
+    font-size: 14px;
+}
+.tyu{
+   margin: 0 auto;
+    width: 1200px;
+    height: 580px;
+  position: relative;
+}
+.hall{
+    width: 574px;
+    height: 265px;
+    background: url("img/图层\ 16.png")no-repeat left;
+    position: relative;
+}
+.hall-1{
+    height: 90px;
+    width: 574px;
+    background-color: rgba(103, 100, 97, 0.5);
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+.hall-1 a {
+    position: absolute;
+    bottom: 10px;
+    right: 50px;
+}
+.hall-1 h3{
+    position: absolute;
+    left: 50px;
+    bottom: 60px;
+    color: #ffffff;
+}
+.hall-2{
+    position: absolute;
+left: 50px;
+bottom: 29px;
+    width: 400px;
+    height: 33px;
+    color: #ffffff;
+    font-size: 14px;
+}
+.layout{
+    width: 574px;
+    height: 273px;
+    position: relative;
+}
+.layout-1{
+position: absolute;
+right: 0;
+bottom: 0;
+}
+.cyz{
+    width: 570px;
+    height: 570px;
+    background: url("img/图层\ 17.png")no-repeat;
+    position: absolute;
+    right: 0;
+    bottom:0;
+}
+.end{
+    margin: 0 auto;
+    width: 1200px;
+    height: 300px;
+    position: relative;
+}
+.end-1{
+    width: 670px;
+    height: 65px;
+    font-size: 14px;
+    position: absolute;
+    right:0;
+    top: 30px;
+    color: #767676;
+}
+.end-2{
+    width: 670px;
+    height: 50px;
+    font-size: 13px;
+    position: absolute;
+    left: 528px;
+    top: 128px;
+    color: #767676;
+}
+.end-3{
+    width: 670px;
+    height: 67px;
+    position: absolute;
+    right: 0px;
+    top: 200px;
+    font-size: 13px;
+    color: #767676;
+}
+.bott{
+    margin: 0 auto;
+    width: 100%;
+    height: 240px;
+    background-color: #f7f7f7;
+}
+.bot{
+    position: relative;
+    width: 1200px;
+    height: 240px;  
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: #f7f7f7;
+}
+.bot-1{
+    float: left;
+    width: 400px;
+    margin-top: 100px;
+    border-right: 1px black solid; 
+}
+.bot-11{
+    height: 20px;
+    text-align: center;
+}
+
+.icon{
+    margin-top: 20px;
+    margin-left: 130px;
+    
+}
+
+.icon img{
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+}
+.bottom-center{
+    margin-top: 100px;
+    float: left;
+    width: 400px;
+    height: 400px;
+}
+.bottom-center p{
+   border-right: 1px black solid; 
+          text-align: center;
+}
+  .news{
+      position: absolute;
+      right: 0px;
+      top: 95px;
+      width: 400px;
+      height: 400px;
+  } 
+  .news p{
+      text-align: center;
+      margin-bottom: 10px;
+  }
